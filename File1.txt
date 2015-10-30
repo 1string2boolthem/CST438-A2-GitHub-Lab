@@ -1,5 +1,6 @@
 Begin of file
 Line1.0 by Giant!
+>>>>>>> 9b073c56c51df49454f0d7a328edf22aa80a76b3
 Line1.1
 Line2.0
 Line2.1
