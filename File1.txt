@@ -8,4 +8,3 @@ Line4
 Line5
 Line 6.0
 Line 6.1
-End of file
