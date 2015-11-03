@@ -11,3 +11,4 @@ Line5
 Line 6.0
 Line 6.1
 Testing Git7
+Adding something here Git2
